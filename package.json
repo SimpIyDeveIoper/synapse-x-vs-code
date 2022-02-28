@@ -1,11 +1,11 @@
 {
-    "publisher": "gitmylo",
+    "publisher": "SimpIyDeveIoper",
     "author": {
-        "name": "Mylo"
+        "name": "SimplyDeveloper"
     },
-    "name": "synapse-x-vs-code",
-    "displayName": "synapse x lua code snippets for vs code",
-    "description": "adds synapse x lua code snippets",
+    "name": "personal-snippets",
+    "displayName": "Some snippets that i use",
+    "description": "adds snippets for fates-admin and more",
     "version": "1.0.2",
     "icon": "images/icon.png",
     "engines": {
@@ -24,7 +24,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/gitmylo/synapse-x-vs-code.git"
+        "url": "https://github.com/SimpIyDeveIoper/personal-snippets.git"
     },
-    "homepage": "https://github.com/gitmylo/synapse-x-vs-code/blob/master/README.md"
+    "homepage": "https://github.com/SimpIyDeveIoper/personal-snippets/blob/master/README.md"
 }
